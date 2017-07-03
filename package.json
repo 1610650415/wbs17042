@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "swiper": "^3.4.2"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
